@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../sass/style.css",
+	"sources": [
+		"../sass/style.scss"
+	],
+	"sourcesContent": [
+		"*{\r\n    margin: 0;\r\n    padding: 0;\r\n   \r\n\r\n}\r\nbody{\r\n    font-family: Verdana, Geneva, Tahoma, sans-serif;\r\n    color: white;\r\n    background: #030303;\r\n}"
+	],
+	"mappings": ";AAAA,AAAA,CAAC,CAAA;EACG,MAAM,EAAE,CAAE;EACV,OAAO,EAAE,CAAE;CAGd;;;AACD,AAAA,IAAI,CAAA;EACA,WAAW,EAAE,mCAAoC;EACjD,KAAK,EAAE,KAAM;EACb,UAAU,EAAE,OAAQ;CACvB",
+	"names": []
+}
